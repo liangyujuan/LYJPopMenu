@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LYJPopMenu_Tests' do
+  pod 'LYJPopMenu', :path => '../'
+  
+  
+end
